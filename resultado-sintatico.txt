@@ -1,0 +1,4 @@
+Erro sintatico - Declaração do bloco 'algoritmo' é obrigatória nessa linguagem - linha: 
+Token problemático: tok100_:->1
+
+Verifique os erros sintaticos e tente compilar novamente
